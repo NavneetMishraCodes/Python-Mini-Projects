@@ -1,4 +1,4 @@
-# this python file hass all the functions required for the main game file
+# this python file has all the functions required for the main game file
 # importing required files or modules
 import time
 import numpy.random as npr
@@ -63,3 +63,4 @@ def play_game():
         invalid_input()
 
     return result
+
