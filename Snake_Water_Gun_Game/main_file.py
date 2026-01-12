@@ -75,4 +75,5 @@ else:
 
 print("")
 print("Check the result, you have 15s...")
-time.sleep(15)
+time.sleep(15) # for somewhat realism
+
